@@ -5,8 +5,8 @@ pipeline {
         stage('Execute shell script') {
             steps {
                script{
-                sh 'chmod 666 ./script2.sh'
-                sh './script2.sh'
+                sh 'sudo chmod 777 ./script2.sh'
+                sh 'sudo ./script2.sh'
                }
             }
         }
