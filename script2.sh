@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World after auto update"
+echo "Hello World after Final update"
