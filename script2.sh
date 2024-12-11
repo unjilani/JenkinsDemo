@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World after adding second update"
+echo "Hello World after trigerred auto update"
