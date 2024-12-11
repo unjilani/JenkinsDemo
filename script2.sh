@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World after adding webhook"
+echo "Hello World after adding second update"
